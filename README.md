@@ -15,6 +15,7 @@
     
 <h2>🏆 Certifications</h2>
 
+- Endpoint Security - Cisco
 - Cyber Threat Intelligence 101 - arcX
 - Fundamentals in Cybersecurity - FortiNet
 - Introduction to Threat Landscape 2.0 - FortiNet
