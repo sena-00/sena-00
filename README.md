@@ -15,15 +15,17 @@
     
 <h2>🏆 Certifications</h2>
 
-- Endpoint Security - Cisco
+- Security+ - CompTIA
+- SC300 - Microsoft
+- SC900 - Microsoft
+- AZ900 - Microsoft
+- AI900 - Microsoft
+- Hacking & Pentest - Solyd Security
 - Cyber Threat Intelligence 101 - arcX
-- Fundamentals in Cybersecurity - FortiNet
-- Introduction to Threat Landscape 2.0 - FortiNet
+- Fortinet Certified Associate - FortiNet
 - Getting Started in CyberSecurity 2.0 - FortiNet
 - AWS Cloud Essentials - Amazon Web Services
 - Network Support and Security - Cisco
-- Artificial Intelligence Fundamentals - IBM
-- Veeam Data Plataform - Veam Software
 
 
 <!--
