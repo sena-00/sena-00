@@ -3,6 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Cybersecurity</b>
+  - [Threat Hunting - Collection of Hunting Queries (CS, KQL, PS1)](https://github.com/sena-00/threathunting)
   - [Bandit - Solutions for 30+ levels of CLI Hacking in Linux](https://github.com/sena-00/bandit) *(In Progress)*
   - [Passcheck - Test the strength of your passwords](https://github.com/sena-00/passcheck)
   - [Simple-Keylog - Keylogger created in Python](https://github.com/sena-00/Simple-Keylog)
