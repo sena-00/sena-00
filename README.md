@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lucas! And i like to break in into things.
+<h1>Hi, I'm Lucas! And i like to break into things.
 
 <h2>👨‍💻 My Projects:</h2>
 
